@@ -31,3 +31,6 @@ npm run test
 
 Use the template folders directly as starting points for custom workflows.
 
+## Design note
+
+See [docs/design-note-001-template-contracts.md](./docs/design-note-001-template-contracts.md).
