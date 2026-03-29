@@ -1,0 +1,10 @@
+department: customer-support
+roles:
+  - triage-manager
+  - classifier
+  - escalation-writer
+expected_outputs:
+  - triage-report.md
+  - escalation-queue.json
+  - response-draft.md
+

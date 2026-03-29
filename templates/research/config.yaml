@@ -1,0 +1,10 @@
+department: research
+roles:
+  - manager
+  - analyst
+  - report-writer
+expected_outputs:
+  - research-memo.md
+  - risk-table.md
+  - decision-summary.md
+

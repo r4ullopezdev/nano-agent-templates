@@ -1,0 +1,10 @@
+department: internal-operations
+roles:
+  - ops-manager
+  - action-tracker
+  - digest-writer
+expected_outputs:
+  - ops-digest.md
+  - action-register.md
+  - weekly-summary.md
+

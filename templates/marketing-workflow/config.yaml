@@ -1,0 +1,10 @@
+department: marketing
+roles:
+  - planner
+  - messaging-lead
+  - launch-operator
+expected_outputs:
+  - campaign-brief.md
+  - asset-checklist.md
+  - launch-summary.md
+

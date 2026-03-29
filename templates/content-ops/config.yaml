@@ -1,0 +1,11 @@
+department: content-ops
+roles:
+  - strategist
+  - researcher
+  - writer
+  - qa-reviewer
+expected_outputs:
+  - content-brief.md
+  - editorial-checklist.md
+  - publish-ready-article.md
+
